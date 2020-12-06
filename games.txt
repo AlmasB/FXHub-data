@@ -77,10 +77,10 @@ description = A platformer example built with FXGL
 authors = Almas Baimagambetov
 
 # tags in CSV format
-tags = fxgl,zephyria,rpg
+tags = fxgl,platformer,mario
 
 # project website
-website = https://github.com/AlmasB/Zephyria
+website = https://github.com/AlmasB/FXGLGames
 
 # link to screenshot displaying app, leave empty if none
 screenshot = 
@@ -93,4 +93,71 @@ exeLinux =
 
 # link to jlinked image for Mac in zip, produced by javafx-maven-plugin, leave empty if none
 exeMac = 
+
+
+---
+
+# project title
+title = FXGL Geometry Wars
+
+# project version
+version = 1.0
+
+# short project description
+description = A Geometry Wars clone built with FXGL
+
+# authors in CSV format
+authors = Almas Baimagambetov
+
+# tags in CSV format
+tags = fxgl,game,geometry wars
+
+# project website
+website = https://github.com/AlmasB/FXGLGames
+
+# link to screenshot displaying app, leave empty if none
+screenshot = 
+
+# link to jlinked image for Windows in zip, produced by javafx-maven-plugin, leave empty if none
+exeWindows = https://github.com/AlmasB/FXGLGames/releases/download/1.0/geowars-game.zip
+
+# link to jlinked image for Linux in zip, produced by javafx-maven-plugin, leave empty if none
+exeLinux = 
+
+# link to jlinked image for Mac in zip, produced by javafx-maven-plugin, leave empty if none
+exeMac = 
+
+
+---
+
+# project title
+title = Tic-Tac-Toe
+
+# project version
+version = 1.0
+
+# short project description
+description = A Tic-Tac-Toe clone built with FXGL
+
+# authors in CSV format
+authors = Almas Baimagambetov
+
+# tags in CSV format
+tags = fxgl,tictactoe,noughts and crosses,game
+
+# project website
+website = https://github.com/AlmasB/FXGLGames
+
+# link to screenshot displaying app, leave empty if none
+screenshot = 
+
+# link to jlinked image for Windows in zip, produced by javafx-maven-plugin, leave empty if none
+exeWindows = https://github.com/AlmasB/FXGLGames/releases/download/1.0/tictactoe.zip
+
+# link to jlinked image for Linux in zip, produced by javafx-maven-plugin, leave empty if none
+exeLinux = 
+
+# link to jlinked image for Mac in zip, produced by javafx-maven-plugin, leave empty if none
+exeMac = 
+
 
