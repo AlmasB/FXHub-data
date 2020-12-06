@@ -1,0 +1,29 @@
+# project title
+title = FXGL Dialogue Editor
+
+# project version
+version = 1.0
+
+# short project description
+description = An editor for in-game dialogues
+
+# authors in CSV format
+authors = Almas Baimagambetov
+
+# tags in CSV format
+tags = fxgl,dialogue editor,game development
+
+# project website
+website = https://github.com/AlmasB/FXGL
+
+# link to screenshot displaying app
+screenshot = https://github.com/AlmasB/FXGL/releases/download/11.11/dialogue-editor.png
+
+# link to jlinked image for Windows in zip, produced by javafx-maven-plugin, leave empty if none
+exeWindows = https://github.com/AlmasB/FXGL/releases/download/11.11/fxgl-dialogue-editor-1.0-beta-win.zip
+
+# link to jlinked image for Linux in zip, produced by javafx-maven-plugin, leave empty if none
+exeLinux = 
+
+# link to jlinked image for Mac in zip, produced by javafx-maven-plugin, leave empty if none
+exeMac = 
