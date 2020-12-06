@@ -20,7 +20,7 @@ website = https://github.com/AlmasB/FXGL
 screenshot = https://github.com/AlmasB/FXGL/releases/download/11.11/dialogue-editor.png
 
 # link to jlinked image for Windows in zip, produced by javafx-maven-plugin, leave empty if none
-exeWindows = https://github.com/AlmasB/FXGL/releases/download/11.11/fxgl-dialogue-editor-1.0-beta-win.zip
+exeWindows = 
 
 # link to jlinked image for Linux in zip, produced by javafx-maven-plugin, leave empty if none
 exeLinux = 
