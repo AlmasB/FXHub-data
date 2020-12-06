@@ -1,0 +1,32 @@
+
+# project title
+title = FXGL
+
+# project version
+version = 11.11
+
+# short project description
+description = A JavaFX game engine
+
+# authors in CSV format
+authors = Almas Baimagambetov
+
+# tags in CSV format
+tags = game engine,game library,gamedev
+
+# project website
+website = https://github.com/AlmasB/FXGL
+
+# link to screenshot displaying app, leave empty if none
+screenshot = https://raw.githubusercontent.com/AlmasB/git-server/master/storage/images/fxgl_promo.jpg
+
+# link to jlinked image for Windows in zip, produced by javafx-maven-plugin, leave empty if none
+exeWindows = 
+
+# link to jlinked image for Linux in zip, produced by javafx-maven-plugin, leave empty if none
+exeLinux = 
+
+# link to jlinked image for Mac in zip, produced by javafx-maven-plugin, leave empty if none
+exeMac = 
+
+
