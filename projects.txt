@@ -43,3 +43,12 @@ authors = Eduardo Betanzos
 tags = ainoha
 
 website = https://github.com/ainoha-framework/ainoha-core
+
+---
+
+title = Griffon
+version = 2.15.1
+description = Next generation desktop application development platform for the JVM
+authors = Andres Almiray
+tags = framework
+website = http://griffon-framework.org/
