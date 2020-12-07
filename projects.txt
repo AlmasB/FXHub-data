@@ -52,3 +52,12 @@ description = Next generation desktop application development platform for the J
 authors = Andres Almiray
 tags = framework
 website = http://griffon-framework.org/
+
+---
+
+title = Ikonli
+version = 12.0.0
+description = Icon packs for Java applications
+authors = Andres Almiray
+tags = icons
+website = http://kordamp.org/ikonli/
