@@ -1,5 +1,5 @@
 # FXHub-data
-Data repo for FXHub.
+Data repo for [FXHub](https://github.com/AlmasB/FXHub).
 
 If you'd like your project featured on FXHub, please create an issue with the following information:
 
