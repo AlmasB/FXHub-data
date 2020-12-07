@@ -27,3 +27,67 @@ exeLinux =
 
 # link to jlinked image for Mac in zip, produced by javafx-maven-plugin, leave empty if none
 exeMac = 
+
+---
+
+# project title
+title = PhotoSlide
+
+# project version
+version = 0.4.1
+
+# short project description
+description = This is a recreation of the app Lightzone with a modern and reactive user interface in Javafx
+
+# authors in CSV format
+authors = Clemens Lanthaler
+
+# tags in CSV format
+tags = photo,lightroom,desktop
+
+# project website, any website or github repo
+website = https://github.com/lanthale/PhotoSlide
+
+# link to screenshot displaying app, leave empty if none
+screenshot = https://raw.githubusercontent.com/lanthale/PhotoSlide/master/PhotoSlide-Shot1.png
+
+# link to jlinked image for Windows in zip, produced by javafx-maven-plugin, leave empty if none
+exeWindows = https://github.com/lanthale/PhotoSlide/releases/download/v0.4.1/PhotoSlide-1.0.0.msi
+
+# link to jlinked image for Linux in zip, produced by javafx-maven-plugin, leave empty if none
+exeLinux = https://github.com/lanthale/PhotoSlide/releases/download/v0.4.1/photoslide_1.0.0-1_amd64.deb
+
+# link to jlinked image for Mac in zip, produced by javafx-maven-plugin, leave empty if none
+exeMac = https://github.com/lanthale/PhotoSlide/releases/download/v0.4.1/PhotoSlide-1.0.0.pkg
+
+---
+
+# project title
+title = JeditFX
+
+# project version
+version = 1.0.1
+
+# short project description
+description = JeditFX is a very lightweight text editor written in JavaFX to demonstrate how JavaFX can handle big files
+
+# authors in CSV format
+authors = Clemens Lanthaler
+
+# tags in CSV format
+tags = editor,textfiles,jedit
+
+# project website, any website or github repo
+website = https://github.com/lanthale/JeditFX
+
+# link to screenshot displaying app, leave empty if none
+screenshot = https://raw.githubusercontent.com/lanthale/JeditFX/master/jeditfx_screenshot.png
+
+# link to jlinked image for Windows in zip, produced by javafx-maven-plugin, leave empty if none
+exeWindows = https://github.com/lanthale/JeditFX/releases/download/v1.0.1/JeditFX-1.0.0.msi
+
+# link to jlinked image for Linux in zip, produced by javafx-maven-plugin, leave empty if none
+exeLinux = https://github.com/lanthale/JeditFX/releases/download/v1.0.1/jeditfx_1.0.0-1_amd64.deb
+
+# link to jlinked image for Mac in zip, produced by javafx-maven-plugin, leave empty if none
+exeMac = https://github.com/lanthale/JeditFX/releases/download/v1.0.1/JeditFX-1.0.0.pkg
