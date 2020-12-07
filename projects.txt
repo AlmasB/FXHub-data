@@ -30,3 +30,16 @@ exeLinux =
 exeMac = 
 
 
+---
+
+title = Ainoha Framework
+
+version = 1.0.RC6
+
+description = A lightweight framework for develop JavaFX 11 (and later) applications in a fast way
+
+authors = Eduardo Betanzos
+
+tags = ainoha
+
+website = https://github.com/ainoha-framework/ainoha-core
