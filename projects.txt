@@ -61,3 +61,13 @@ description = Icon packs for Java applications
 authors = Andres Almiray
 tags = icons
 website = http://kordamp.org/ikonli/
+
+---
+
+title = BootstrapFX
+version = 0.4.0
+description = JavaFX port of Bootstrap CSS
+authors = Andres Almiray
+tags = bootstrapfx, css, stylesheet
+website = https://github.com/kordamp/bootstrapfx
+screenshot = https://raw.githubusercontent.com/kordamp/bootstrapfx/master/images/buttons.png
