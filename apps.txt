@@ -91,3 +91,36 @@ exeLinux = https://github.com/lanthale/JeditFX/releases/download/v1.0.1/jeditfx_
 
 # link to jlinked image for Mac in zip, produced by javafx-maven-plugin, leave empty if none
 exeMac = https://github.com/lanthale/JeditFX/releases/download/v1.0.1/JeditFX-1.0.0.pkg
+
+---
+
+# project title
+title = VkEx
+
+# project version
+version = 1.0.0
+
+# short project description
+description = VkEx is a combination of desktop and console applications that aim to allow Vkontakte users to export their conversations
+
+# authors in CSV format
+authors = Pavel Kasper
+
+# tags in CSV format
+tags = vkontake,export,desktop-app,cli-app
+
+# project website, any website or github repo
+website = https://github.com/kascoder/VkEx
+
+# link to screenshot displaying app, leave empty if none
+screenshot = https://raw.githubusercontent.com/kascoder/VkEx/main/static/vkex_main_panel.png
+
+# link to jlinked image for Windows in zip, produced by javafx-maven-plugin, leave empty if none
+exeWindows = https://github.com/kascoder/VkEx/releases/download/1.0.0/vkex_1.0.0.exe
+
+# link to jlinked image for Linux in zip, produced by javafx-maven-plugin, leave empty if none
+exeLinux = 
+
+# link to jlinked image for Mac in zip, produced by javafx-maven-plugin, leave empty if none
+exeMac = 
+
