@@ -22,13 +22,16 @@ screenshot =
 # link to jlinked image for Windows in zip, produced by javafx-maven-plugin, leave empty if none
 exeWindows = https://github.com/AlmasB/FXGLGames/releases/download/1.0/breakout-game.zip
 
+# absolute or relative path to executable on end-user Windows machine (after installation or unzipping took place)
+exePathWindows = bin/Start-game.bat
+
 # link to jlinked image for Linux in zip, produced by javafx-maven-plugin, leave empty if none
 exeLinux = 
 
 # link to jlinked image for Mac in zip, produced by javafx-maven-plugin, leave empty if none
 exeMac = https://github.com/AlmasB/FXGLGames/releases/download/1.0/breakout-game-osx.zip
 
-# absolute or relative path to executable on end-user PC (after installation or unzipping took place)
+# absolute or relative path to executable on end-user Mac machine (after installation or unzipping took place)
 exePathMac = bin/Start-game
 
 ---
@@ -58,6 +61,8 @@ screenshot = https://raw.githubusercontent.com/AlmasB/git-server/master/storage/
 
 # link to jlinked image for Windows in zip, produced by javafx-maven-plugin, leave empty if none
 exeWindows = https://github.com/AlmasB/Zephyria/releases/download/0.1/zephyria-game.zip
+
+exePathWindows = bin/Start-game.bat
 
 # link to jlinked image for Linux in zip, produced by javafx-maven-plugin, leave empty if none
 exeLinux = 
@@ -90,6 +95,8 @@ screenshot =
 
 # link to jlinked image for Windows in zip, produced by javafx-maven-plugin, leave empty if none
 exeWindows = https://github.com/AlmasB/FXGLGames/releases/download/1.0/Mario-game.zip
+
+exePathWindows = bin/Start-game.bat
 
 # link to jlinked image for Linux in zip, produced by javafx-maven-plugin, leave empty if none
 exeLinux = 
@@ -124,6 +131,8 @@ screenshot =
 # link to jlinked image for Windows in zip, produced by javafx-maven-plugin, leave empty if none
 exeWindows = https://github.com/AlmasB/FXGLGames/releases/download/1.0/geowars-game.zip
 
+exePathWindows = bin/Start-game.bat
+
 # link to jlinked image for Linux in zip, produced by javafx-maven-plugin, leave empty if none
 exeLinux = 
 
@@ -156,6 +165,8 @@ screenshot =
 
 # link to jlinked image for Windows in zip, produced by javafx-maven-plugin, leave empty if none
 exeWindows = https://github.com/AlmasB/FXGLGames/releases/download/1.0/tictactoe.zip
+
+exePathWindows = bin/Start-game.bat
 
 # link to jlinked image for Linux in zip, produced by javafx-maven-plugin, leave empty if none
 exeLinux = 
