@@ -102,8 +102,10 @@ exePathWindows = bin/Start-game.bat
 exeLinux = 
 
 # link to jlinked image for Mac in zip, produced by javafx-maven-plugin, leave empty if none
-exeMac = 
+exeMac = https://github.com/AlmasB/FXGLGames/releases/download/1.0/Mario-game-osx.zip
 
+# absolute or relative path to executable on end-user Mac machine (after installation or unzipping took place)
+exePathMac = bin/Start-game
 
 ---
 
