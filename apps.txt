@@ -124,3 +124,40 @@ exeLinux =
 # link to jlinked image for Mac in zip, produced by javafx-maven-plugin, leave empty if none
 exeMac = 
 
+---
+
+# project title
+title = Worldclock
+
+# project version
+version = 1.0-SNAPSHOT
+
+# short project description
+description = JavaFX world clock
+
+# authors in CSV format
+authors = Carl Dea
+
+# tags in CSV format
+tags = clock,desktop
+
+# project website, any website or github repo
+website = https://github.com/carldea/worldclock
+
+# link to screenshot displaying app, leave empty if none
+screenshot = 
+
+# link to jlinked image for Windows in zip or .msi, produced by javafx-maven-plugin, leave empty if none
+exeWindows = 
+
+exePathWindows =
+
+# link to jlinked image for Linux in zip, produced by javafx-maven-plugin, leave empty if none
+exeLinux = 
+
+exePathLinux =
+
+# link to jlinked image for Mac in zip, produced by javafx-maven-plugin, leave empty if none
+exeMac = 
+
+exePathMac =
