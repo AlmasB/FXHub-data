@@ -161,3 +161,35 @@ exePathLinux =
 exeMac = 
 
 exePathMac =
+
+---
+
+# project title
+title = JabRef
+
+# project version
+version = 5.1
+
+# short project description
+description = JabRef is a free reference manager that helps you to discover, collect, organize and cite your scholarly literature and research in an efficient way.
+
+# authors in CSV format
+authors = JabRef Developers
+
+# tags in CSV format
+tags = jabref,latex,bibtex,biblatex,academia,reference-manager,research-tool
+
+# project website, any website or github repo
+website = http://www.jabref.org/
+
+# link to screenshot displaying app, leave empty if none
+screenshot = https://raw.githubusercontent.com/JabRef/www.jabref.org/master/img/jabref-mainscreen.png
+
+# link to jlinked image for Windows in zip or .msi, produced by javafx-maven-plugin, leave empty if none
+exeWindows = https://github.com/JabRef/jabref/releases/download/v5.1/JabRef-5.1.msi
+
+# link to jlinked image for Linux in zip, produced by javafx-maven-plugin, leave empty if none
+exeLinux = https://github.com/JabRef/jabref/releases/download/v5.1/JabRef-5.1-portable_linux.tar.gz
+
+# link to jlinked image for Mac in zip, produced by javafx-maven-plugin, leave empty if none
+exeMac = https://github.com/JabRef/jabref/releases/download/v5.1/JabRef-5.1.dmg
